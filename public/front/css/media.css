@@ -1,0 +1,999 @@
+@media(min-width:1200px) and (max-width:1399px){
+    .banner_typing {
+        font-size: 56px;
+    }
+    .content .ban-text {
+        margin-right: 115px;
+        padding-bottom: 150px;
+    }
+    .f-text p {
+        margin-right: 30px;
+    }
+    .resume-button button {
+        padding: 35px 83px;
+    }
+    .edu-title h4 {
+        font-size: 20px;
+    }
+    .edu-text p {
+        font-size: 17px;
+        margin-right: 0px;
+    }
+    .card-information .ratting {
+        padding: 5px 14px;
+    }
+    .card-text h3 {
+        font-size: 25px;
+        line-height: 13px;
+    }
+    .card-text .date {
+        font-size: 14px;
+    }
+    .card-information p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .card-information .ratting {
+        top: 22%;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 30px 84px;
+    }
+    .pricing-time {
+        margin: 0 ;
+        text-align: center;
+    }
+    .contact-main {
+        padding: 60px;
+    }
+    
+    .feature-wrapper::after{
+        width: 100%;
+     }
+     .portfolio-wrapper::after{
+        width: 100%;
+     }
+     .testimonial-wrapper::after{
+        width: 100%;
+     }
+     .resume-wrapper::after{
+        width: 100%;
+     }
+     .clients-wrapper::after{
+        width: 100%;
+     }
+     .pricing-wrapper::after{
+        width: 100%;
+     }
+     .blog-wrapper::after{
+        width: 100%;
+     }
+     .contact-wrapper::after{
+        width: 100%;
+     }
+     .footer-wrapper::after{
+        width: 100%;
+     }
+}
+@media(min-width:992px) and (max-width:1199px){
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+     .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 8px;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        margin-left: 40px;
+    }
+    .ban-button {
+        margin-left: 0px;
+    }
+    .ban-button .ban-right-btn {
+        font-size: 14px;
+        margin-right: 0;
+        padding: 15px 10px;
+    }
+    span.subtitle {
+        margin-bottom: 30px;
+    }
+    .content h1 {
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 20px;
+    }
+    .banner_typing {
+        font-size: 45px;
+    }
+    .content .ban-text {
+        margin-right: 40px;
+        padding-bottom: 0;
+    }
+    #banner {
+        padding-bottom: 90px;
+    }
+    #feature {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .f-text h4 {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .f-text p {
+        margin-right: 0;
+    }
+    #portfolio {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .portfolio-text h4 a {
+        font-size: 18px;
+    }
+    #resume {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .resume-head h2 {
+        padding-bottom: 35px;
+    }
+    .resume-button button {
+        padding: 35px 60px;
+    }
+    .edu-title h4 {
+        font-size: 16px;
+    }
+    .edu-text p {
+        margin-right: 0;
+    }
+    .edu-text p {
+        line-height: 25px;
+    }
+    #testimonial {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .card-information p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .card-description {
+        padding: 10px 40px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    #clients {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    .client-r-img img {
+        padding: 20px;
+    }
+    #pricing {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-right {
+        margin-left: 0 !important;
+    }
+    .pricing-button button {
+        padding: 30px 64px;
+    }
+    .recommended {
+        top: 5%;
+    }
+    .pricing-time {
+        margin: 0;
+        text-align: center;
+    }
+    .pricing-head h2 {
+        font-size: 44px;
+    }
+    .blog-text h4 a {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #blog {
+        padding-top: 80px;
+        padding-bottom: 60px;
+    }
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .contact-main-f {
+        margin-bottom: 0;
+    }
+    #footer {
+        padding-top: 70px;
+    }
+    #demo {
+        top: 50%;
+        right: 30px !important;
+    }
+    #submit {
+        padding: 17px 30px;
+        margin-top: 9px;
+    }
+
+    .feature-wrapper::after{
+        width: 100%;
+     }
+     .portfolio-wrapper::after{
+        width: 100%;
+     }
+     .testimonial-wrapper::after{
+        width: 100%;
+     }
+     .resume-wrapper::after{
+        width: 100%;
+     }
+     .clients-wrapper::after{
+        width: 100%;
+     }
+     .pricing-wrapper::after{
+        width: 100%;
+     }
+     .blog-wrapper::after{
+        width: 100%;
+     }
+     .contact-wrapper::after{
+        width: 100%;
+     }
+     .footer-wrapper::after{
+        width: 100%;
+     }
+}
+@media(min-width:768px) and (max-width:991px){
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+    .navbar {
+        background: #212428;;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 10px 0;
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    #hamburger-menu {
+        margin: 0px;
+    }
+    #hamburger-menu span {
+        height: 5px;
+    }
+    .ban-button {
+        margin-left: 335px;
+        margin-top: 20px;
+        margin-bottom: 45px;
+    }
+    span.subtitle {
+        margin-bottom: 20px;
+    }
+    .content h1 {
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+    .typing .a {
+        font-size: 40px;
+    }
+    .banner_typing {
+        font-size: 27px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 24px;
+        margin-right: 0;
+        padding-bottom: 15px;
+    }
+    span.subtitle {
+        margin-bottom: 40px;
+    }
+    .socila-right {
+        margin-top: 50px;
+    }
+    #banner {
+        padding-bottom: 60px;
+    }
+    #banner .ban-right {
+        margin-top: 140px;
+    }
+    .feature-head{
+        text-align: center;
+    }
+    .f-text p {
+        margin-right: 0;
+    }
+    .portfolio-text h4 a {
+        font-size: 20px;
+    }
+    .resume-button button {
+        padding: 35px 30px;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+    .clients-head {
+        text-align: center;
+    }
+    .pricing-head h2 {
+        margin-bottom: 70px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 30px 77px;
+    }
+    .recommended {
+        top: 21%;
+        left: 40%;
+    }
+    .pricing-time {
+        margin: 0;
+        text-align: center;
+    }
+    .contact-main {
+        margin-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+    }
+    #portfolio {
+        padding-top: 65px;
+        padding-bottom: 70px;
+    }
+    #blog {
+        padding-bottom: 50px
+    }
+    #clients {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    #contact {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .card-information .ratting {
+        padding: 5px 10px;
+        left: 77%;
+        top: 40%;
+    }
+
+
+
+    .feature-wrapper::after{
+        width: 80%;
+     }
+     .portfolio-wrapper::after{
+        width: 80%;
+     }
+     .testimonial-wrapper::after{
+        width: 80%;
+     }
+     .resume-wrapper::after{
+        width: 80%;
+     }
+     .clients-wrapper::after{
+        width: 80%;
+     }
+     .pricing-wrapper::after{
+        width: 80%;
+     }
+     .blog-wrapper::after{
+        width: 80%;
+     }
+     .contact-wrapper::after{
+        width: 80%;
+     }
+     .footer-wrapper::after{
+        width: 80%;
+     }
+}
+@media(min-width:576px) and (max-width:767px){
+    #demo{
+        top: 45%;
+        right: 30px !important;
+     }
+    .navbar {
+        background: #212428;;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+        font-size: 16px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    #hamburger-menu {
+        margin: 0px;
+    }
+    #hamburger-menu span {
+        height: 5px;
+    }
+    .ban-button {
+        margin-left: 230px;
+        margin-top: 20px;
+    }
+    .socila-right span.subtitle {
+        margin-top: 30px;
+    }
+    .socila-right span.subtitle {
+        margin-top: 8px;
+    }
+    .socila-right span.subtitle {
+        font-size: 20px;
+    }
+    .feature-head{
+        text-align: center;
+    }
+    .content h1 {
+        font-size: 60px;
+    }
+    .typing .a{
+        font-size: 50px;
+    }
+    .banner_typing{
+        font-size: 43px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 40px;
+    }
+    span.subtitle {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+    .social-img {
+        margin-bottom: 40px;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .card-text::after {
+        top: 110%;
+    }
+    .clients-head span.subtitle {
+        text-align: center;
+    }
+    .clients-head h2 {
+        font-size: 55px;
+        padding-bottom: 0px;
+    }
+    .clients-left-wrapp {
+        margin-bottom: 50px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    #clients {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    #pricing {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pricing-head h2 {
+        margin-bottom: 60px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .pricing-button button {
+        padding: 25px 47px;
+    }
+    .recommended {
+        top: 212px;
+        left: 36%;
+    }
+    .pricing-left h2 {
+        font-size: 22px;
+    }
+    .pricing-right-d p {
+        font-size: 20px;
+    }
+    .pricing-header {
+        margin-bottom: 30px;
+    }
+    .pricing-body p {
+        font-size: 18px;
+        padding-right: 30px;
+        margin-bottom: 35px;
+    }
+    .pricing-t .check p {
+        font-size: 15px;
+    }
+    .pricing-time {
+        margin: 0;
+    }
+    #blog {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #contact {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .contact-head h2 {
+        font-size: 55px;
+        padding-bottom: 0px;
+    }
+    .description p {
+        margin-right: 60px;
+    }
+
+    .con-tact span a::after {
+        bottom: 2px !important;
+    }
+    #footer {
+        padding-top: 40px;
+    }
+    .contact-main {
+        margin-bottom: 50px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    .card-text h3 {
+        font-size: 25px;
+    }
+
+
+
+
+    .feature-wrapper::after{
+        width: 80%;
+     }
+     .portfolio-wrapper::after{
+        width: 80%;
+     }
+     .testimonial-wrapper::after{
+        width: 80%;
+     }
+     .resume-wrapper::after{
+        width: 80%;
+     }
+     .clients-wrapper::after{
+        width: 80%;
+     }
+     .pricing-wrapper::after{
+        width: 80%;
+     }
+     .blog-wrapper::after{
+        width: 80%;
+     }
+     .contact-wrapper::after{
+        width: 80%;
+     }
+     .footer-wrapper::after{
+        width: 80%;
+     }
+}
+@media (max-width:575.99px) {
+    #demo{
+        position: fixed;
+        content: "";
+        top: 45%;
+        right: 30px !important;
+        z-index: 999;
+     }
+    .navbar {
+        background: #212428;;
+        padding: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 13px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 0 ;
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link::after {
+        position: sticky;
+    }
+    #hamburger-menu {
+        margin: 0px;
+    }
+    .ban-button {
+        display: none;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    span.subtitle {
+        margin-bottom: 30px;
+    }
+    .content h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .typing .a{
+        font-size: 30px;
+    }
+    .banner_typing{
+        font-size: 24px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 40px;
+    }
+    .socila-right span.subtitle {
+        margin-top: 40px;
+    }
+    .social-img {
+        margin-bottom: 40px;
+    }
+    #feature {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    .feature-head h2 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+    .icon a i {
+        margin-bottom: 10px;
+    }
+    .f-text h4 {
+        font-size: 21px;
+    }
+    .f-text p {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0px;
+    }
+    #portfolio {
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+    .portfolio-head h2 {
+        font-size: 40px;
+        padding-bottom: 0;
+    }
+    #resume {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .resume-head h2 {
+        font-size: 48px;
+    }
+    .resume-button button {
+        margin-bottom: 30px;
+        padding: 21px 59px;
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    .edu-content .subtitle {
+        text-align: center;
+    }
+    .edu-content h4 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .date span {
+        display: none;
+    }
+    .edu-title h4 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .portfolio-text h4 a {
+        font-size: 15px;
+    }
+    .edu-text p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-right: 0;
+    }
+    .progress-content .subtitle {
+        text-align: center;
+    }
+    .progress-content h4 {
+        font-size: 30px;
+        text-align: center;
+    }
+    .progress-charts {
+        padding-bottom: 20px;
+    }
+    #testimonial {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .testimonial-head h2 {
+        font-size: 45px;
+        padding-bottom: 0px;
+    }
+    .card-content .subtitle {
+        margin-bottom: 0px;
+    }
+    .card-content h3 {
+        font-size: 16px;
+        margin-bottom: 0px;
+        line-height: 22px;
+    }
+    .card-content .dwntitle {
+        margin-bottom: 0px;
+    }
+    .card-info {
+        margin: 0 auto;
+        padding: 20px 10px 10px 10px;
+    }
+    .quote-img img {
+        display: none;
+    }
+    .test-top {
+        display: none;
+    }
+    .card-text::before {
+        display: none;
+    }
+    .card-description {
+        margin-top: 30px;
+        padding: 15px;
+    }
+    .card-text h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .card-text .date {
+        font-size: 14px;
+        line-height: 0px;
+        margin-bottom: 0px;
+    }
+    .card-information p {
+        font-size: 14px;
+        line-height: 18px;
+        padding-top: 20px;
+    }
+    .card-text::after {
+        display: none;
+    }
+    #clients {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .clients-head span.subtitle {
+        text-align: center;
+    }
+    .clients-head h2 {
+        font-size: 32px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    .clients-left-wrapp ul li {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    .clients-left-wrapp {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    .clients-right-wrapp {
+        margin-left: 0;
+    }
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pricing-head {
+        margin-right: 0;
+    }
+    .pricing-head h2 {
+        font-size: 44px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .pricing-right {
+        margin-left: 0;
+    }
+    .recommended {
+        display: none;
+    }
+    .pricing-button button {
+        padding: 30px 100px;
+    }
+    .pricing-right-d p {
+        display: none;
+    }
+    .pricing-content {
+        padding: 0 10px 10px 10px;
+    }
+    .pricing-left h2 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .pricing-body p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .pricing-t .check p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .pricing-time {
+        margin: 0 ;
+        margin-top: 30px;
+        text-align: center;
+    }
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #blog {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    .blog-head h2 {
+        padding-bottom: 0px;
+    }
+    .blog-text h4 a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .contact-head h2 {
+        font-size: 33px;
+        padding-bottom: 0px;
+    }
+    .contact-category-list h4 {
+        font-size: 26px;
+        line-height: 25px;
+    }
+    .description p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-right: 0;
+    }
+    .con-tact span {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .con-tact span a {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #contact {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+    }
+    .copy-right p {
+        font-size: 17px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    .feature-wrapper::after{
+       display: none;
+    }
+    .portfolio-wrapper::after{
+       display: none;
+    }
+    .testimonial-wrapper::after{
+        display: none;
+    }
+    .resume-wrapper::after{
+        display: none;
+    }
+    .clients-wrapper::after{
+        display: none;
+    }
+    .pricing-wrapper::after{
+        display: none;
+    }
+    .blog-wrapper::after{
+        display: none;
+    }
+    .contact-wrapper::after{
+        display: none;
+    }
+    .footer-wrapper::after{
+        display: none;
+    }
+    .copy-right p span:hover:after{
+        width: 100% !important;
+    }
+    .top-up-button i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px;
+    }
+    #demo {
+        display: none;
+    }
+}
+
+@media (min-width:500px) and (max-width:575.99px){
+    .banner_typing{
+        font-size: 40px;
+    }
+    .card-information .ratting {
+        top: 40%;
+        display: none;
+    }
+    #demo {
+        display: none;
+    }
+}
+
+@media (min-width:400px) and (max-width:575.99px){
+    .content h1 {
+        font-size: 45px;
+    }
+    .typing .a{
+        font-size: 35px;
+    }
+    .banner_typing{
+        font-size: 30px;
+    }
+    .content .ban-text {
+        font-size: 15px;
+        line-height: 25px;
+        margin-right: 0;
+        padding-bottom: 40px;
+    }
+    span.subtitle {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+    .card-information .ratting {
+        display: none;
+    }
+    #demo {
+        display: none;
+    }
+}
